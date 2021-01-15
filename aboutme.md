@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: jiyoonbaekbaek 박 아니고 백 ! 깃헙을 빽빽하게 채우며 공부하겠습니다. 저를 소개합니다 ^O^
 ---
 
 안녕하세요 ! 저는 열심히 데이터 분석과 nlp 를 공부하고 있는 백지윤이라고 합니다:
