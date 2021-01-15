@@ -100,7 +100,7 @@ link-col: "#080C03"
 hover-col: "#9F5B09"
 footer-col: "#F2AB39"
 footer-text-col: "#69491A"
-footer-link-col: "#FFFFFF" 
+footer-link-col: "#69491A" 
 google_fonts: "Nanum+Gothic:400,700"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
