@@ -9,7 +9,7 @@
 title: JiyoonBlog
 
 # Your name to show in the footer
-author: Some Person
+author: JiYoonBaek
 
 # --- List of links in the navigation bar --- #
 
@@ -73,7 +73,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+#url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -101,7 +101,7 @@ hover-col: "#9F5B09"
 footer-col: "#F2AB39"
 footer-text-col: "#69491A"
 footer-link-col: "#69491A" 
-google_fonts: "Nanum+Gothic:400,700"
+google_fonts: "Do+Hyeon&display=swap"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
