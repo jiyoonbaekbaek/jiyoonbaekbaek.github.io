@@ -101,7 +101,7 @@ hover-col: "#9F5B09"
 footer-col: "#F2AB39"
 footer-text-col: "#69491A"
 footer-link-col: "#69491A" 
-google_fonts: "Do+Hyeon&display=swap"
+google_fonts: "Gaegu:wght@300;400&display=swap"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
